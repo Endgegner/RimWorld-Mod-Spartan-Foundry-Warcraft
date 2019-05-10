@@ -6,7 +6,7 @@ RimWorld: Spartan Foundry - All Craftables Patch
 
 Makes all marine armors by Spartan Foundry craftable:
 
-List of Warcraft
+#### List of Warcraft
 
 - Powered Assault Armor + Powered Assault Armor Helmet *present
 - Engineer Power Armor + Engineer Power Armor Helmet
@@ -23,13 +23,13 @@ List of Warcraft
 
 All Power armors and helmets are available at the Fabrication Bench now after Research. A Power Cell (when installed) or an AI Persona Core is needed in some cases, to balance out the access to this superior warcraft.
 
-Requirements
+#### Requirements
 
 - Fabrication Bench ("Advanced Fabrication")
 - Research ("Mechanoid Portable Energy")
 - Crafting Skill 12
 
-Load Order
+#### Load Order
 
 - RimWorld: Spartan Foundry (needed)
 - Available Translations
@@ -41,14 +41,14 @@ Load Order
 
 Covers the private parts of your colonists in an appropriate way!
 
-Notes
+##### Notes
 Small patch to make all the gear craftable. You can combine it with any of the listed mods tho.
 
-Credits
+#### Credits
 RimWorld: Spartan Foundry * by Oskar Potocki
 Idea & request * by hawkbluetear
 Code * by Trunken
 
-Links
+#### Links
 RimWorld Spartan Foundry: https://steamcommunity.com/sharedfiles/filedetails/?id=1695609511
 German Language: https://steamcommunity.com/sharedfiles/filedetails/?id=1724846368
