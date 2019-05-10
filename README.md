@@ -45,9 +45,9 @@ Covers the private parts of your colonists in an appropriate way!
 Small patch to make all the gear craftable. You can combine it with any of the listed mods tho.
 
 #### Credits
-RimWorld: Spartan Foundry * by Oskar Potocki
-Idea & request * by hawkbluetear
-Code * by Trunken
+RimWorld: Spartan Foundry * by Oskar Potocki<br>
+Idea & request * by hawkbluetear<br>
+Code * by Trunken<br>
 
 #### Links
 RimWorld Spartan Foundry: https://steamcommunity.com/sharedfiles/filedetails/?id=1695609511
