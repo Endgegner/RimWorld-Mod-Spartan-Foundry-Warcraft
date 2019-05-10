@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Spartan Foundry Warcraft</name>
+	<author>Trunken</author>
+	<url></url>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+	<description>Makes all marine armors by Spartan Foundry craftable:
+
+&lt;b&gt;&lt;color=#01DFD7&gt;List of Warcraft&lt;/color&gt;&lt;/b&gt;
+ - Powered Assault Armor + Powered Assault Armor Helmet *present
+ - Engineer Power Armor + Engineer Power Armor Helmet
+ - Explorer Power Armor + Explorer Power Armor Helmet
+ - Grenadier Power Armor + Grenadier Power Armor Helmet
+ - CommandoArmor + Commando Armor Helmet
+ - Hazard Operations Armor + Hazard Operations Armor Helmet
+ - Diplomat Power Armor + Diplomat Power Armor Helmet
+ - Defender Power Armor + Defender Power Armor Helmet
+ - Scout Power Armor + Scout Power Armor Helmet
+ - Samurai Power Armor + Samurai Power Armor Helmet
+ - Shock Trooper Armor + Shock Trooper Armor Helmet
+ - Recon Power Armor + Recon Power Armor Helmet
+
+All Power armors and helmets are available at the Fabrication Bench after Research now. A Power Cell (when installed) or an AI Persona Core is needed in some cases, to balance out the access to this superior warcraft.
+
+&lt;b&gt;Requirements&lt;/b&gt;
+- Fabrication Bench ("Advanced Fabrication")
+- Research ("Mechanoid Portable Energy")
+- Crafting Skill 12
+
+&lt;b&gt;Load Order&lt;/b&gt;
+- RimWorld: Spartan Foundry * by Oskar Potocki (needed)
+- Available Translations
+- Spartan Foundry Warcraft (patch)
+- More Crashed Ship Parts * by Ataman
+- Mechanoid Power Source (auto balance)
+- Mechanoid Master Blaster
+
+&lt;i&gt;Covers the private parts of your colonists in an appropriate way!&lt;/i&gt;
+
+&lt;b&gt;Credits&lt;/b&gt;
+Spartan Foundry * by Oskar Potocki
+Idea &amp; request * by hawkbluetear
+Code * by Trunken
+
+...for best experiences and finest Lategame content.
+</description>
+</ModMetaData>
