@@ -41,7 +41,7 @@ All Power armors and helmets are available at the Fabrication Bench now after Re
 
 Covers the private parts of your colonists in an appropriate way!
 
-##### Notes
+#### Notes
 Small patch to make all the gear craftable. You can combine it with any of the listed mods tho.
 
 #### Credits
